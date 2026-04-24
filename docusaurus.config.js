@@ -103,25 +103,21 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '文档',
             items: [
               {
-                label: 'Tutorial',
+                label: '我的笔记',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'More',
+            title: '更多内容',
             items: [
               {
-                label: 'Blog',
+                label: '博客',
                 to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+              }
             ],
           },
         ],
