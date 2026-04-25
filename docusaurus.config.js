@@ -121,7 +121,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备2026048177号-1</a>`,
+        copyright: `© ${new Date().getFullYear()} <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备2026048177号</a>`,
       },
       prism: {
         theme: prismThemes.github,
