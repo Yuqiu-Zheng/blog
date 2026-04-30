@@ -121,7 +121,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备2026048177号</a> <img src="/assets/image/head-logo.png" width="20"/> <a href="https://beian.mps.gov.cn/#/query/webSearch?code=44010602015689" rel="noreferrer" target="_blank">粤公网安备44010602015689号</a>`,
+        copyright: `© ${new Date().getFullYear()} <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备2026048177号</a> <img src="/img/beian-logo.png" width="20"/> <a href="https://beian.mps.gov.cn/#/query/webSearch?code=44010602015689" rel="noreferrer" target="_blank">粤公网安备44010602015689号</a>`,
       },
       prism: {
         theme: prismThemes.github,
